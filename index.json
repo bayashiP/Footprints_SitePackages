@@ -10,6 +10,46 @@
       "version": 1,
       "updatedAt": "2026-10-02",
       "path": "packages/bookoff-tokyo.json"
+    },
+    {
+      "id": "diskunion-kanto",
+      "name": "ディスクユニオン 関東",
+      "description": "関東のディスクユニオン各店（東京・神奈川・千葉・埼玉）",
+      "overview": "中古・新品のCD/レコード店「ディスクユニオン」の関東の店舗（東京都・神奈川県・千葉県・埼玉県）をまとめたパッケージです。レコード屋巡りの立ち寄り先をまとめて登録したい人向け。ディスクユニオン公式サイトの店舗ページ（2026-10-05 時点）の店名・住所をもとに、住所は国土地理院の住所検索APIで緯度経度に変換しています。新宿・お茶の水・渋谷のように同じビルや街区にジャンル別の専門館が複数ある場所は、地点としては1件にまとめ、同居するショップ名をメモに記載しています。",
+      "storeCount": 22,
+      "version": 1,
+      "updatedAt": "2026-10-05",
+      "path": "packages/diskunion-kanto.json"
+    },
+    {
+      "id": "tokyo-art-museum",
+      "name": "東京の美術館",
+      "description": "東京都内の美術館",
+      "overview": "東京都内の美術館をまとめたパッケージです。展覧会めぐりの行き先をまとめて登録したい人向け。OpenStreetMap の `tourism=museum` のうち、名称に「美術館」を含むもの、または `museum=art` が付いた施設（2026-10-05 時点）を収録しています。画廊・ギャラリー・企業のショールームは除外。同じ場所にある分館・別館は1件にまとめ、メモに併記しています。",
+      "storeCount": 111,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tokyo-art-museum.json"
+    },
+    {
+      "id": "tokyo-science-museum",
+      "name": "東京の科学館・博物館",
+      "description": "東京都内の博物館・科学館",
+      "overview": "東京都内の博物館・科学館をまとめたパッケージです。企業ミュージアムや専門博物館も含みます。OpenStreetMap の `tourism=museum` のうち、名称に「博物館」「科学館」「ミュージアム」を含むもの、または `museum=science/technology/natural_history/transport` が付いた施設（2026-10-05 時点）を収録。美術館は別パッケージ「東京の美術館」に分けています。小規模な資料館・記念館・郷土館は件数が多いため除外。",
+      "storeCount": 150,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tokyo-science-museum.json"
+    },
+    {
+      "id": "tokyo-zoo-aquarium",
+      "name": "東京の動物園・水族館",
+      "description": "東京都内の動物園・水族館",
+      "overview": "東京都内にある動物園・水族館をまとめたパッケージです。お出かけ先の候補をまとめて登録したい人向け。OpenStreetMap の `tourism=zoo` / `tourism=aquarium` の施設（2026-10-05 時点）を元に作成し、園内の展示コーナー・植物園・研究施設・観賞魚店は除外しています。伊豆大島・小笠原の施設も含みます。",
+      "storeCount": 14,
+      "version": 1,
+      "updatedAt": "2026-10-05",
+      "path": "packages/tokyo-zoo-aquarium.json"
     }
   ]
 }

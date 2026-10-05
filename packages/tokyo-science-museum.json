@@ -1,0 +1,965 @@
+{
+  "formatVersion": 1,
+  "id": "tokyo-science-museum",
+  "name": "東京の科学館・博物館",
+  "description": "東京都内の博物館・科学館",
+  "overview": "東京都内の博物館・科学館をまとめたパッケージです。企業ミュージアムや専門博物館も含みます。OpenStreetMap の `tourism=museum` のうち、名称に「博物館」「科学館」「ミュージアム」を含むもの、または `museum=science/technology/natural_history/transport` が付いた施設（2026-10-05 時点）を収録。美術館は別パッケージ「東京の美術館」に分けています。小規模な資料館・記念館・郷土館は件数が多いため除外。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "博物館",
+    "icon": "🏛️"
+  },
+  "stores": [
+    {
+      "name": "Art Aquarium Museum GINZA",
+      "latitude": 35.67138,
+      "longitude": 139.765708,
+      "address": "東京都中央区銀座四丁目6-16",
+      "memo": "営業時間（OSM登録値）: Mo-Su,PH 10:00-19:00; Dec 31 10:00-17:30; Jan 01 off / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "Button Museum",
+      "latitude": 35.691191,
+      "longitude": 139.787872,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Creative Museum Tokyo",
+      "latitude": 35.67817,
+      "longitude": 139.771649,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "NHK放送博物館",
+      "latitude": 35.663725,
+      "longitude": 139.74826,
+      "memo": "営業時間（OSM登録値）: Tu-Su,PH 10:00-16:30 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "Parco Museum Tokyo",
+      "latitude": 35.661839,
+      "longitude": 139.699006,
+      "address": "東京都渋谷区宇田川町15-1",
+      "memo": "営業時間（OSM登録値）: Mo-Su 11:00-20:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "SL展示場",
+      "latitude": 35.713927,
+      "longitude": 139.509473,
+      "memo": "営業時間（OSM登録値）: Mar-Nov Sa, Su, PH 10:00-16:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "Samurai Museum Tokyo",
+      "latitude": 35.692792,
+      "longitude": 139.705294,
+      "memo": "入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "San Francisco Fillmore Wolfgang's Vault Art Museum",
+      "latitude": 35.697401,
+      "longitude": 139.777275,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "The History Museum of J-Koreans",
+      "latitude": 35.651475,
+      "longitude": 139.737046,
+      "address": "東京都港区港区三田11-1-7-32",
+      "memo": "営業時間（OSM登録値）: Tu-Sa 10:30-17:30; Su-Mo off / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "Tokyo Art Museum",
+      "latitude": 35.660736,
+      "longitude": 139.587212,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Tokyo Origami Museum",
+      "latitude": 35.704812,
+      "longitude": 139.798347,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "WHAT Museum",
+      "latitude": 35.620685,
+      "longitude": 139.748564,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Zemaitis Museum",
+      "latitude": 35.693757,
+      "longitude": 139.771633,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "teamLab Borderless Museum",
+      "latitude": 35.662002,
+      "longitude": 139.743418,
+      "memo": "営業時間（OSM登録値）: Mo-Su 08:30-21:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "うんこミュージアム TOKYO",
+      "latitude": 35.625493,
+      "longitude": 139.776392,
+      "address": "東京都江東区青海一丁目1-10",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-20:00; PH 09:00-21:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "お札と切手の博物館",
+      "latitude": 35.754321,
+      "longitude": 139.739265,
+      "memo": "営業時間（OSM登録値）: 09:30-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "お茶の文化創造博物館",
+      "latitude": 35.666004,
+      "longitude": 139.761364,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "したまちミュージアム",
+      "latitude": 35.710239,
+      "longitude": 139.772747,
+      "address": "東京都台東区上野公園2-1",
+      "memo": "入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "たばこと塩の博物館",
+      "latitude": 35.705766,
+      "longitude": 139.808531,
+      "address": "東京都墨田区横川16-3",
+      "memo": "営業時間（OSM登録値）: 10:00-18:00; Mo off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ちいさな硝子の本の博物館",
+      "latitude": 35.708874,
+      "longitude": 139.802151,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "つまみかんざし博物館",
+      "latitude": 35.710273,
+      "longitude": 139.702041,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ふれあい下水道館",
+      "latitude": 35.720172,
+      "longitude": 139.464617,
+      "memo": "営業時間（OSM登録値）: Tu-Su,PH 10:00-16:00 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ぷらっと博物館",
+      "latitude": 35.67123,
+      "longitude": 139.480954,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "アクセサリーミュージアム",
+      "latitude": 35.640138,
+      "longitude": 139.688714,
+      "memo": "営業時間（OSM登録値）: 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "アクティブ・ミュージアム「女たちの戦争と平和資料館」（wam）",
+      "latitude": 35.707915,
+      "longitude": 139.71625,
+      "address": "東京都新宿区西早稲田3-18 AVACOビル2F",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "アド・ミュージアム東京",
+      "latitude": 35.664522,
+      "longitude": 139.762641,
+      "address": "東京都港区東新橋一丁目8-2",
+      "memo": "営業時間（OSM登録値）: Tu-Sa 12:00-18:00 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "インターメディアテク",
+      "latitude": 35.680032,
+      "longitude": 139.764534,
+      "memo": "営業時間（OSM登録値）: 11:00-18:00; Fr,Sa 11:00-20:00; Mo closed / 出典: OpenStreetMap"
+    },
+    {
+      "name": "エース世界のカバン博物館",
+      "latitude": 35.708056,
+      "longitude": 139.795315,
+      "address": "東京都台東区駒形一丁目8-10",
+      "memo": "営業時間（OSM登録値）: 10:00-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ガスミュージアム",
+      "latitude": 35.741918,
+      "longitude": 139.500412,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "クロネコヤマトミュージアム",
+      "latitude": 35.62668,
+      "longitude": 139.745248,
+      "memo": "営業時間（OSM登録値）: Tu-Sa / 出典: OpenStreetMap"
+    },
+    {
+      "name": "サムライミュージアム",
+      "latitude": 35.695518,
+      "longitude": 139.703563,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "サムライ忍者体験ミュージアム東京",
+      "latitude": 35.711573,
+      "longitude": 139.791783,
+      "address": "東京都台東区西浅草一丁目8-13",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スヌーピーミュージアム",
+      "latitude": 35.510286,
+      "longitude": 139.469483,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "セイコーミュージアム",
+      "latitude": 35.672371,
+      "longitude": 139.764424,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "センチュリーミュージアム",
+      "latitude": 35.702532,
+      "longitude": 139.75976,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ブレーキ博物館",
+      "latitude": 35.694138,
+      "longitude": 139.809419,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ポーラ ミュージアム アネックス",
+      "latitude": 35.674248,
+      "longitude": 139.767989,
+      "memo": "営業時間（OSM登録値）: Mo-Su 11:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "マイコン博物館 夢の図書館 模型とラジオの博物館",
+      "latitude": 35.789882,
+      "longitude": 139.25688,
+      "address": "東京都青梅市仲町295",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ヨドバシ フジサワ カメラミュージアム",
+      "latitude": 35.69178,
+      "longitude": 139.711088,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "三菱UFJ信託銀行 信託博物館",
+      "latitude": 35.683296,
+      "longitude": 139.764931,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "井上円了記念博物館",
+      "latitude": 35.723643,
+      "longitude": 139.749815,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "交通資料館",
+      "latitude": 35.783758,
+      "longitude": 139.681201,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "伊勢半本店 紅ミュージアム",
+      "latitude": 35.659913,
+      "longitude": 139.717979,
+      "memo": "営業時間（OSM登録値）: 11:00-19:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "伊場仙浮世絵ミュージアム",
+      "latitude": 35.687431,
+      "longitude": 139.777286,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "伊豆大島火山博物館",
+      "latitude": 34.744012,
+      "longitude": 139.359997,
+      "memo": "営業時間（OSM登録値）: Mo-Su 09:00-17:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "健康と医学の博物館",
+      "latitude": 35.710038,
+      "longitude": 139.764365,
+      "memo": "営業時間（OSM登録値）: 10:00-17:00; Dec 24-Jan 4 off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "六本木ミュージアム",
+      "latitude": 35.659576,
+      "longitude": 139.734014,
+      "memo": "営業時間（OSM登録値）: 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "六町ミュージアム・フローラ",
+      "latitude": 35.783223,
+      "longitude": 139.820075,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "凧の博物館",
+      "latitude": 35.684427,
+      "longitude": 139.775158,
+      "address": "東京都中央区日本橋室町8-3",
+      "memo": "営業時間（OSM登録値）: Mo-Sa 11:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "刀剣博物館",
+      "latitude": 35.698818,
+      "longitude": 139.793714,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:30-17:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "切手の博物館",
+      "latitude": 35.718268,
+      "longitude": 139.70578,
+      "address": "東京都豊島区目白4番-23号",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:30-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "区立教育科学館",
+      "latitude": 35.763445,
+      "longitude": 139.679624,
+      "memo": "同じ場所の施設: 板橋区立教育科学館 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "千秋文庫博物館",
+      "latitude": 35.693263,
+      "longitude": 139.74649,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "印刷博物館",
+      "latitude": 35.709165,
+      "longitude": 139.741437,
+      "address": "東京都文京区水道3-3",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-18:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "古代オリエント博物館",
+      "latitude": 35.728732,
+      "longitude": 139.720968,
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "古賀政男音楽博物館",
+      "latitude": 35.667771,
+      "longitude": 139.680093,
+      "address": "東京都渋谷区上原三丁目6-12",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "台東区立書道博物館",
+      "latitude": 35.724715,
+      "longitude": 139.776453,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "唐澤博物館",
+      "latitude": 35.733027,
+      "longitude": 139.662573,
+      "address": "東京都練馬区豊玉北三丁目5-5",
+      "memo": "営業時間（OSM登録値）: \"by appointment\" / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "国立極地研究所南極・北極科学館",
+      "latitude": 35.711803,
+      "longitude": 139.409438,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "国立科学博物館",
+      "latitude": 35.715992,
+      "longitude": 139.776593,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "国立科学博物館 自然教育園",
+      "latitude": 35.636116,
+      "longitude": 139.721459,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "國學院大學博物館",
+      "latitude": 35.656217,
+      "longitude": 139.7112,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "地下鉄博物館",
+      "latitude": 35.663544,
+      "longitude": 139.874213,
+      "address": "東京都江戸川区東葛西六丁目3-1",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-17:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "多摩六都科学館",
+      "latitude": 35.734553,
+      "longitude": 139.523037,
+      "address": "東京都西東京市芝久保町10-64",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "大名時計博物館",
+      "latitude": 35.721289,
+      "longitude": 139.766182,
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-16:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "大島町 貝の博物館 ぱれ・らめーる",
+      "latitude": 34.681884,
+      "longitude": 139.437254,
+      "address": "東京都大島町差木地",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "大田区立郷土博物館",
+      "latitude": 35.588531,
+      "longitude": 139.710666,
+      "address": "東京都大田区南馬込11-13",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "学會津八一記念博物館",
+      "latitude": 35.708554,
+      "longitude": 139.72036,
+      "address": "東京都新宿区西早稲田一丁目6-1",
+      "memo": "営業時間（OSM登録値）: Th-Tu,PH 10:00-17:00 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "家具の博物館",
+      "latitude": 35.71367,
+      "longitude": 139.377966,
+      "address": "東京都昭島市中神町1148",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 10:00-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "富士フィルム 写真歴史博物館",
+      "latitude": 35.665422,
+      "longitude": 139.730162,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "屏風博物館",
+      "latitude": 35.710447,
+      "longitude": 139.807704,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "山田洋次ミュージアム",
+      "latitude": 35.756635,
+      "longitude": 139.880547,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "府中市郷土の森博物館本館",
+      "latitude": 35.656688,
+      "longitude": 139.473169,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "府中郷土の森博物館",
+      "latitude": 35.655191,
+      "longitude": 139.472562,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "建設技術歴史展示室",
+      "latitude": 35.66286,
+      "longitude": 139.797904,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "文化学園服飾博物館",
+      "latitude": 35.686322,
+      "longitude": 139.69501,
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "新宿御苑ミュージアム",
+      "latitude": 35.686064,
+      "longitude": 139.712785,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "新宿歴史博物館",
+      "latitude": 35.690013,
+      "longitude": 139.72563,
+      "address": "東京都新宿区三栄町22",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:30-17:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "新島村博物館",
+      "latitude": 34.381529,
+      "longitude": 139.259222,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "日本オリンピックミュージアム",
+      "latitude": 35.674948,
+      "longitude": 139.715156,
+      "memo": "入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "日本カメラ博物館",
+      "latitude": 35.686058,
+      "longitude": 139.742847,
+      "address": "東京都千代田区一番町25",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "日本サッカーミュージアム",
+      "latitude": 35.704255,
+      "longitude": 139.763943,
+      "address": "東京都文京区本郷三丁目10-15",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 13:00-18:00; Sa-Su 10:00-19:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "日本浮世絵博物館　東京",
+      "latitude": 35.711711,
+      "longitude": 139.794617,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "日本銀行金融研究所貨幣博物館",
+      "latitude": 35.68544,
+      "longitude": 139.771603,
+      "address": "東京都中央区日本橋本石町一丁目3-1",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:30-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "日野自動車 21世紀センター",
+      "latitude": 35.627152,
+      "longitude": 139.316607,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "旧町田市立博物館",
+      "latitude": 35.567409,
+      "longitude": 139.451186,
+      "address": "東京都町田市本町田3562",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "早稲田スポーツミュージアム",
+      "latitude": 35.706188,
+      "longitude": 139.716978,
+      "memo": "営業時間（OSM登録値）: 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "早稲田大学坪内博士記念演劇博物館",
+      "latitude": 35.709951,
+      "longitude": 139.719541,
+      "address": "東京都新宿区新宿区西早稲田6-1",
+      "memo": "営業時間（OSM登録値）: We-Th, Sa-Mo 10:00-17:00; Tu, Fr 10:00-19:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "明治大学博物館",
+      "latitude": 35.698699,
+      "longitude": 139.762152,
+      "address": "東京都千代田区神田駿河台一丁目1",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-16:30 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "明治神宮ミュージアム",
+      "latitude": 35.672274,
+      "longitude": 139.702168,
+      "memo": "営業時間（OSM登録値）: Mo-We,Fr-Su 10:00-16:30; PH 10:00-16:30 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "昭和のくらし博物館",
+      "latitude": 35.575223,
+      "longitude": 139.685829,
+      "address": "東京都大田区南久が原二丁目26-19",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "昭和レトロ商品博物館",
+      "latitude": 35.788717,
+      "longitude": 139.260468,
+      "address": "東京都青梅市住江町65",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "昭和女子大学光葉博物館",
+      "latitude": 35.643521,
+      "longitude": 139.677022,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "木材・合板博物館",
+      "latitude": 35.645733,
+      "longitude": 139.831798,
+      "address": "東京都江東区新木場一丁目7-22",
+      "memo": "営業時間（OSM登録値）: We-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "木組み博物館",
+      "latitude": 35.707887,
+      "longitude": 139.71741,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "杉並アニメーションミュージアム",
+      "latitude": 35.710459,
+      "longitude": 139.60772,
+      "address": "東京都杉並区上荻三丁目29-5",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-18:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "杉並区立科学館",
+      "latitude": 35.716453,
+      "longitude": 139.619365,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "杉並区立郷土博物館",
+      "latitude": 35.686022,
+      "longitude": 139.645461,
+      "address": "東京都杉並区大宮20-8",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "杉野学園衣裳博物館",
+      "latitude": 35.630742,
+      "longitude": 139.715856,
+      "address": "東京都品川区上大崎四丁目6-19",
+      "memo": "営業時間（OSM登録値）: Mo-Sa 10:00-16:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京ガス「がすてなーに ガスの科学館」",
+      "latitude": 35.651715,
+      "longitude": 139.791994,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:30-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京国立博物館",
+      "latitude": 35.719066,
+      "longitude": 139.775816,
+      "address": "東京都台東区上野公園13-9",
+      "memo": "営業時間（OSM登録値）: Mo, We-Th 09:30-17:00; Fr-Su 09:30-20:00 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京大学大学院総合文化研究科教養学部美術博物館",
+      "latitude": 35.659355,
+      "longitude": 139.685711,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東京大学総合研究博物館",
+      "latitude": 35.708529,
+      "longitude": 139.761226,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東京大学総合研究博物館・小石川分館",
+      "latitude": 35.721399,
+      "longitude": 139.741136,
+      "memo": "営業時間（OSM登録値）: Mo-We off; Th-Su 10:00-16:30 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京家政大学博物館",
+      "latitude": 35.755152,
+      "longitude": 139.721298,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東京家政学院生活文化博物館",
+      "latitude": 35.609308,
+      "longitude": 139.311445,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東京海洋大学 マリンサイエンスミュージアム",
+      "latitude": 35.627619,
+      "longitude": 139.748192,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京消防庁消防防災資料センター消防博物館",
+      "latitude": 35.688137,
+      "longitude": 139.719939,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:30-17:00; Mo off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京科学大学博物館",
+      "latitude": 35.606783,
+      "longitude": 139.684799,
+      "memo": "入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東京農工大学工学部附属繊維博物館",
+      "latitude": 35.698076,
+      "longitude": 139.518808,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東京農業大学「食と農」の博物館",
+      "latitude": 35.638983,
+      "longitude": 139.631778,
+      "memo": "営業時間（OSM登録値）: Tu-Sa 09:30-16:30 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東大和市立郷土博物館",
+      "latitude": 35.755165,
+      "longitude": 139.422904,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東映アニメーションミュージアム",
+      "latitude": 35.751809,
+      "longitude": 139.59464,
+      "address": "東京都練馬区東大泉二丁目10-5",
+      "memo": "営業時間（OSM登録値）: Mo,We-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東武博物館",
+      "latitude": 35.723464,
+      "longitude": 139.818985,
+      "address": "東京都墨田区東向島四丁目28-16",
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-16:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "東洋文庫ミュージアム",
+      "latitude": 35.731246,
+      "longitude": 139.748711,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "柴又のおもちゃ博物館",
+      "latitude": 35.757482,
+      "longitude": 139.875907,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "楽天ミュージアム",
+      "latitude": 35.610625,
+      "longitude": 139.630228,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "武蔵野音楽大学楽器ミュージアム",
+      "latitude": 35.741042,
+      "longitude": 139.672223,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "民音音楽博物館",
+      "latitude": 35.682326,
+      "longitude": 139.719383,
+      "address": "東京都新宿区信濃町-8",
+      "memo": "営業時間（OSM登録値）: Tu-Sa 11:00-16:00; Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "気象科学館",
+      "latitude": 35.665672,
+      "longitude": 139.745957,
+      "memo": "同じ場所の施設: 港区立みなと科学館 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "水の科学館",
+      "latitude": 35.630822,
+      "longitude": 139.785511,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "水素情報館 東京スイソミル",
+      "latitude": 35.656529,
+      "longitude": 139.811567,
+      "address": "東京都江東区潮見3-2",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00; Mo off; Dec 28-31 off; Jan 01-04 off / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "江戸東京博物館",
+      "latitude": 35.696444,
+      "longitude": 139.796077,
+      "address": "東京都墨田区横網一丁目4-1",
+      "memo": "営業時間（OSM登録値）: Su, Tu-Fr 09:30-17:30; Sa 09:30-19:30; Mo off / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "清瀬市郷土博物館",
+      "latitude": 35.779709,
+      "longitude": 139.520903,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "物流博物館",
+      "latitude": 35.629097,
+      "longitude": 139.732315,
+      "memo": "営業時間（OSM登録値）: Tu-Su 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "白根記念渋谷区郷土博物館",
+      "latitude": 35.656439,
+      "longitude": 139.712542,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "相撲博物館",
+      "latitude": 35.697271,
+      "longitude": 139.793237,
+      "address": "東京都墨田区横網一丁目3-28",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 10:00-16:00 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "第一三共くすりミュージアム",
+      "latitude": 35.688459,
+      "longitude": 139.775669,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "紙の博物館",
+      "latitude": 35.749555,
+      "longitude": 139.738979,
+      "address": "東京都北区王子一丁目1-3",
+      "memo": "同じ場所の施設: 北区飛鳥山博物館 / 営業時間（OSM登録値）: Mo off; Tu-Su 10:00-17:00; Dec 28-Jan 04 off / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "絶滅メディア博物館",
+      "latitude": 35.689613,
+      "longitude": 139.767861,
+      "address": "東京都千代田区内神田二丁目3-6",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "羽村市郷土博物館",
+      "latitude": 35.755118,
+      "longitude": 139.303457,
+      "address": "東京都羽村市羽741",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00; PH 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "船の科学館",
+      "latitude": 35.620217,
+      "longitude": 139.772296,
+      "address": "東京都品川区東八潮3-1",
+      "memo": "営業時間（OSM登録値）: closed / 出典: OpenStreetMap"
+    },
+    {
+      "name": "葛飾区郷土と天文の博物館",
+      "latitude": 35.752891,
+      "longitude": 139.843376,
+      "address": "東京都葛飾区白鳥25-1",
+      "memo": "営業時間（OSM登録値）: Su, Tu-Th 09:00-17:00; Fr-Sa 09:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "調布市郷土博物館",
+      "latitude": 35.646753,
+      "longitude": 139.536239,
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-16:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "警察博物館",
+      "latitude": 35.675123,
+      "longitude": 139.769582,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "豊島区立 トキワ荘マンガミュージアム",
+      "latitude": 35.724265,
+      "longitude": 139.68608,
+      "memo": "入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "足立区立郷土博物館",
+      "latitude": 35.784472,
+      "longitude": 139.841442,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "農場博物館",
+      "latitude": 35.735599,
+      "longitude": 139.538922,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "郵政博物館",
+      "latitude": 35.710091,
+      "longitude": 139.812658,
+      "address": "東京都墨田区押上一丁目1-2",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-17:30 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "郷土博物館分館",
+      "latitude": 35.708851,
+      "longitude": 139.621201,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "野球殿堂博物館",
+      "latitude": 35.705579,
+      "longitude": 139.752898,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "長谷工マンションミュージアム",
+      "latitude": 35.62032,
+      "longitude": 139.421557,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "青梅きもの博物館",
+      "latitude": 35.787918,
+      "longitude": 139.220301,
+      "address": "東京都青梅市梅郷四丁目629",
+      "memo": "営業時間（OSM登録値）: Fr-Su 10:00-16:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "青梅市郷土博物館",
+      "latitude": 35.783723,
+      "longitude": 139.256727,
+      "address": "東京都青梅市駒木町一丁目684",
+      "memo": "営業時間（OSM登録値）: Tu-Su 09:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "食とくらしの小さな博物館",
+      "latitude": 35.632912,
+      "longitude": 139.732884,
+      "memo": "営業時間（OSM登録値）: Mo-Sa 10:15-17:00; PH off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駄菓子屋ゲーム博物館",
+      "latitude": 35.764017,
+      "longitude": 139.702626,
+      "memo": "営業時間（OSM登録値）: Mo, Fr 14:00-19:00; Sa-Su 10:00-19:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駒澤大学禅文化歴史博物館",
+      "latitude": 35.628503,
+      "longitude": 139.658124,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "高尾599ミュージアム",
+      "latitude": 35.630384,
+      "longitude": 139.268708,
+      "memo": "営業時間（OSM登録値）: Mo-Su 08:00-16:00 / 入場料: 無料 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "高麗博物館",
+      "latitude": 35.69845,
+      "longitude": 139.703642,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ＪＲＡ競馬博物館",
+      "latitude": 35.666247,
+      "longitude": 139.488138,
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}
