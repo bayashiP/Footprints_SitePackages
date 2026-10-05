@@ -1,0 +1,471 @@
+{
+  "formatVersion": 1,
+  "id": "tokyo-cinema",
+  "name": "東京の映画館",
+  "description": "東京都内の映画館・ミニシアター",
+  "overview": "シネコンからミニシアターまで、東京都内の映画館をまとめたパッケージです。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。`amenity=cinema` の施設を収録し、TOHOシネマズ・イオンシネマのようにOSM 上で屋号しか登録されていないシネコンには所在地を添えています。同じ建物・街区にある店舗は1地点にまとめ、同居する店舗名はメモに記載しています（アプリは50m以内を同一店舗として扱うため）。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "映画館",
+    "icon": "🎬"
+  },
+  "stores": [
+    {
+      "name": "109シネマズ 木場",
+      "latitude": 35.666607,
+      "longitude": 139.804117,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "109シネマズプレミアム新宿",
+      "latitude": 35.69585,
+      "longitude": 139.700558,
+      "memo": "スクリーン数（OSM登録値）: 8 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "109シネマズ（世田谷区玉川一丁目）",
+      "latitude": 35.61097,
+      "longitude": 139.629895,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "109シネマズ（町田市鶴間三丁目）",
+      "latitude": 35.509727,
+      "longitude": 139.470065,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "CINEMA Chupki",
+      "latitude": 35.74115,
+      "longitude": 139.761754,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "CINEMALICE",
+      "latitude": 35.696706,
+      "longitude": 139.760743,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Cinema Vera Shibuya",
+      "latitude": 35.659351,
+      "longitude": 139.695385,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Cinemarise",
+      "latitude": 35.66157,
+      "longitude": 139.698772,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "HACK",
+      "latitude": 35.674866,
+      "longitude": 139.71073,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "MOVIX昭島",
+      "latitude": 35.715024,
+      "longitude": 139.363247,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Mixalive TOKYO",
+      "latitude": 35.730009,
+      "longitude": 139.714946,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHO CINEMAS CHANTER",
+      "latitude": 35.673431,
+      "longitude": 139.760496,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHO CINEMAS HIBIYA",
+      "latitude": 35.673319,
+      "longitude": 139.759454,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 上野",
+      "latitude": 35.706872,
+      "longitude": 139.773159,
+      "memo": "スクリーン数（OSM登録値）: 8 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 六本木",
+      "latitude": 35.659517,
+      "longitude": 139.729227,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 南大沢",
+      "latitude": 35.614816,
+      "longitude": 139.380584,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 府中",
+      "latitude": 35.671382,
+      "longitude": 139.480962,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 池袋",
+      "latitude": 35.732363,
+      "longitude": 139.715491,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 立川立飛",
+      "latitude": 35.712543,
+      "longitude": 139.416156,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 錦糸町 (オリナス)",
+      "latitude": 35.700848,
+      "longitude": 139.815893,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ 錦糸町 (楽天地)",
+      "latitude": 35.696439,
+      "longitude": 139.815377,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ大井町",
+      "latitude": 35.608437,
+      "longitude": 139.732597,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ日本橋",
+      "latitude": 35.686979,
+      "longitude": 139.774898,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "TOHOシネマズ（新宿区歌舞伎町一丁目）",
+      "latitude": 35.695154,
+      "longitude": 139.701964,
+      "memo": "スクリーン数（OSM登録値）: 12 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "Theater SPROUT",
+      "latitude": 35.715124,
+      "longitude": 139.788785,
+      "memo": "スクリーン数（OSM登録値）: 1 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "T・ジョイPRINCE品川",
+      "latitude": 35.628391,
+      "longitude": 139.735912,
+      "memo": "スクリーン数（OSM登録値）: 11 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "T・ジョイSEIBU大泉",
+      "latitude": 35.753036,
+      "longitude": 139.594839,
+      "memo": "スクリーン数（OSM登録値）: 9 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "United Cinemas（港区台場一丁目）",
+      "latitude": 35.628249,
+      "longitude": 139.774416,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "Uplink",
+      "latitude": 35.662846,
+      "longitude": 139.69484,
+      "memo": "スクリーン数（OSM登録値）: 1 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "grand cinema sunshine",
+      "latitude": 35.730884,
+      "longitude": 139.716399,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "イオンシネマ むさし村山",
+      "latitude": 35.746509,
+      "longitude": 139.384644,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "イオンシネマ 多摩センター",
+      "latitude": 35.622796,
+      "longitude": 139.426497,
+      "memo": "スクリーン数（OSM登録値）: 8 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "イオンシネマ 日の出",
+      "latitude": 35.734677,
+      "longitude": 139.273643,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "イオンシネマ 板橋",
+      "latitude": 35.770331,
+      "longitude": 139.660639,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "イオンシネマ（八王子市滝山町一丁目）",
+      "latitude": 35.682563,
+      "longitude": 139.340281,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オルフェウス",
+      "latitude": 35.735289,
+      "longitude": 139.882328,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "キネカ大森",
+      "latitude": 35.587989,
+      "longitude": 139.730049,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ギンレイホール",
+      "latitude": 35.701395,
+      "longitude": 139.742822,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シアター･イメージフォーラム",
+      "latitude": 35.660303,
+      "longitude": 139.707022,
+      "memo": "スクリーン数（OSM登録値）: 2 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネクイント CINE QUINTO",
+      "latitude": 35.660874,
+      "longitude": 139.699849,
+      "memo": "スクリーン数（OSM登録値）: 2 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネスイッチ銀座",
+      "latitude": 35.672096,
+      "longitude": 139.765023,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマカリテ",
+      "latitude": 35.690329,
+      "longitude": 139.701482,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマネコ",
+      "latitude": 35.788218,
+      "longitude": 139.266047,
+      "memo": "スクリーン数（OSM登録値）: 1 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマハウス大塚",
+      "latitude": 35.73583,
+      "longitude": 139.730197,
+      "memo": "スクリーン数（OSM登録値）: 1 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマブルースタジオ",
+      "latitude": 35.746984,
+      "longitude": 139.800682,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマロサ",
+      "latitude": 35.732481,
+      "longitude": 139.709171,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマ・ツー",
+      "latitude": 35.70138,
+      "longitude": 139.412141,
+      "memo": "スクリーン数（OSM登録値）: 5 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマ・ワン",
+      "latitude": 35.70064,
+      "longitude": 139.413849,
+      "memo": "スクリーン数（OSM登録値）: 6 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "シネマート新宿",
+      "latitude": 35.691935,
+      "longitude": 139.70576,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "シモキタ - エキマエ - シネマ『K2』",
+      "latitude": 35.660655,
+      "longitude": 139.666366,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "テアトル新宿",
+      "latitude": 35.692317,
+      "longitude": 139.705165,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "トリエC館イオンシネマシアタス調布",
+      "latitude": 35.652503,
+      "longitude": 139.54178,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ヒューマントラストシネマ有楽町",
+      "latitude": 35.674124,
+      "longitude": 139.763187,
+      "memo": "スクリーン数（OSM登録値）: 2 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ヒューマントラストシネマ渋谷",
+      "latitude": 35.661973,
+      "longitude": 139.702723,
+      "memo": "スクリーン数（OSM登録値）: 3 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ホワイトシネクイント",
+      "latitude": 35.661982,
+      "longitude": 139.699099,
+      "memo": "スクリーン数（OSM登録値）: 1 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ポレポレ東中野",
+      "latitude": 35.706519,
+      "longitude": 139.684566,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ユジク",
+      "latitude": 35.705862,
+      "longitude": 139.635087,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ユナイテッドシネマ豊島園",
+      "latitude": 35.742261,
+      "longitude": 139.648745,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ユナイテッド・シネマ（江東区豊洲二丁目）",
+      "latitude": 35.654557,
+      "longitude": 139.792443,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "レクチャーシアター",
+      "latitude": 35.604527,
+      "longitude": 139.682307,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "上野オークラ劇場",
+      "latitude": 35.710454,
+      "longitude": 139.772928,
+      "memo": "同じ場所の施設: 上野オークラ劇場2／上野特選劇場／オークラシアター / 出典: OpenStreetMap"
+    },
+    {
+      "name": "下高井戸シネマ",
+      "latitude": 35.665938,
+      "longitude": 139.642787,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸の内TOEI",
+      "latitude": 35.673557,
+      "longitude": 139.764805,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "吉祥寺オデヲン",
+      "latitude": 35.702888,
+      "longitude": 139.580975,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "吉祥寺プラザ",
+      "latitude": 35.706584,
+      "longitude": 139.580566,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "新宿バルト9",
+      "latitude": 35.690117,
+      "longitude": 139.705913,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "新宿ピカデリー",
+      "latitude": 35.692655,
+      "longitude": 139.703754,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "新宿武蔵野館",
+      "latitude": 35.691199,
+      "longitude": 139.701959,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "新文芸坐",
+      "latitude": 35.732583,
+      "longitude": 139.713706,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "早稲田松竹",
+      "latitude": 35.711619,
+      "longitude": 139.708226,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "東宝シネマ 渋谷",
+      "latitude": 35.659186,
+      "longitude": 139.698883,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "池袋HUMAXシネマズ",
+      "latitude": 35.729898,
+      "longitude": 139.715889,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "目黒シネマ",
+      "latitude": 35.634981,
+      "longitude": 139.714824,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "神保町シアター",
+      "latitude": 35.695026,
+      "longitude": 139.76082,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "船堀シネパル",
+      "latitude": 35.684585,
+      "longitude": 139.864477,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "角川シネマ有楽町",
+      "latitude": 35.675106,
+      "longitude": 139.762683,
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}

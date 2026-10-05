@@ -1,0 +1,148 @@
+{
+  "formatVersion": 1,
+  "id": "mandarake-surugaya-kanto",
+  "name": "まんだらけ・駿河屋 関東",
+  "description": "関東のまんだらけ・駿河屋",
+  "overview": "マンガ・同人誌・フィギュア・レトロゲームなどを扱う「まんだらけ」と「駿河屋」の関東の店舗です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。同名の飲食店・和菓子店と区別するため、チェーンのブランドタグや中古・ホビー系の店舗種別が付いているものだけを収録しています。同じ建物・街区にある店舗は1地点にまとめ、同居する店舗名はメモに記載しています（アプリは50m以内を同一店舗として扱うため）。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "サブカル中古",
+    "icon": "🎮"
+  },
+  "stores": [
+    {
+      "name": "まんだらけ SAHRA",
+      "latitude": 35.932839,
+      "longitude": 140.520411,
+      "chain": "まんだらけ",
+      "memo": "同じ場所の店舗: まんだらけサーラ / 営業時間（OSM登録値）: 12:00-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "まんだらけ 中野店",
+      "latitude": 35.708975,
+      "longitude": 139.665782,
+      "chain": "まんだらけ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 12:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "まんだらけ 宇都宮店",
+      "latitude": 36.560396,
+      "longitude": 139.884645,
+      "chain": "まんだらけ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 12:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "まんだらけ 渋谷店",
+      "latitude": 35.661483,
+      "longitude": 139.697548,
+      "chain": "まんだらけ",
+      "memo": "同じ場所の店舗: まんだらけ（渋谷区宇田川町） / 営業時間（OSM登録値）: Mo-Su 12:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "まんだらけ（豊島区東池袋一丁目）",
+      "latitude": 35.731567,
+      "longitude": 139.712321,
+      "chain": "まんだらけ",
+      "memo": "営業時間（OSM登録値）: 12:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 マルイファミリー溝口買取センター",
+      "latitude": 35.598938,
+      "longitude": 139.612904,
+      "chain": "駿河屋",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 千葉中央店",
+      "latitude": 35.607597,
+      "longitude": 140.119333,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 大宮マルイ店",
+      "latitude": 35.906762,
+      "longitude": 139.621883,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:30-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 新宿マルイアネックス",
+      "latitude": 35.690113,
+      "longitude": 139.706032,
+      "chain": "駿河屋",
+      "memo": "同じ場所の店舗: 駿河屋 新宿マルイアネックス店 / 営業時間（OSM登録値）: 11:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 池袋キャラクター",
+      "latitude": 35.731564,
+      "longitude": 139.716511,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 秋葉原アニメ・ホビー",
+      "latitude": 35.701556,
+      "longitude": 139.771831,
+      "chain": "駿河屋",
+      "memo": "同じ場所の店舗: 駿河屋 秋葉原プラモデル / 営業時間（OSM登録値）: Mo-Fr 11:00-21:00; Sa-Su 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 秋葉原ゲーム",
+      "latitude": 35.701625,
+      "longitude": 139.770876,
+      "chain": "駿河屋",
+      "memo": "同じ場所の店舗: 駿河屋 秋葉原トレカ・ボードゲーム / 営業時間（OSM登録値）: 09:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 秋葉原本館",
+      "latitude": 35.700621,
+      "longitude": 139.770541,
+      "chain": "駿河屋",
+      "memo": "同じ場所の店舗: まんだらけ コンプレックス / 営業時間（OSM登録値）: Mo-Su 12:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 秋葉原駅前店",
+      "latitude": 35.697719,
+      "longitude": 139.772147,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: 09:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋 鴻巣吹上店",
+      "latitude": 36.096579,
+      "longitude": 139.465541,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-20:00; Jan 01 off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋（市川市相之川四丁目）",
+      "latitude": 35.673695,
+      "longitude": 139.903024,
+      "chain": "駿河屋",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋（横浜市西区高島二丁目）",
+      "latitude": 35.464526,
+      "longitude": 139.624592,
+      "chain": "駿河屋",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:30-20:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋（町田市原町田六丁目）",
+      "latitude": 35.543105,
+      "longitude": 139.445232,
+      "chain": "駿河屋",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "駿河屋（町田市旭町一丁目）",
+      "latitude": 35.554812,
+      "longitude": 139.44254,
+      "chain": "駿河屋",
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}

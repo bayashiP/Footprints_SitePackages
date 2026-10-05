@@ -1,0 +1,435 @@
+{
+  "formatVersion": 1,
+  "id": "komeda-tokyo",
+  "name": "コメダ珈琲店 東京",
+  "description": "東京都内のコメダ珈琲店",
+  "overview": "東京都内のコメダ珈琲店です。モーニングや長居できる喫茶店の候補をまとめて登録したい人向け。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "カフェ",
+    "icon": "☕"
+  },
+  "stores": [
+    {
+      "name": "コメダ珈琲店 あきる野店",
+      "latitude": 35.729211,
+      "longitude": 139.287812,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 アトレ秋葉原店",
+      "latitude": 35.69834,
+      "longitude": 139.774653,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 エキア東武練馬店",
+      "latitude": 35.768653,
+      "longitude": 139.661501,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 ダイエー大島店",
+      "latitude": 35.689095,
+      "longitude": 139.828868,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 ダイエー武蔵村山店",
+      "latitude": 35.735695,
+      "longitude": 139.378061,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 三軒茶屋店",
+      "latitude": 35.643389,
+      "longitude": 139.671442,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 三鷹上連雀店",
+      "latitude": 35.687765,
+      "longitude": 139.558887,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 下丸子店",
+      "latitude": 35.57246,
+      "longitude": 139.684373,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 八王子駅北口店",
+      "latitude": 35.658481,
+      "longitude": 139.338565,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 吉祥寺ダイヤ街店",
+      "latitude": 35.704095,
+      "longitude": 139.57916,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 唐木田店",
+      "latitude": 35.616956,
+      "longitude": 139.413256,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 国立北口店",
+      "latitude": 35.699797,
+      "longitude": 139.447031,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 大森イトーヨーカドー店",
+      "latitude": 35.586992,
+      "longitude": 139.732664,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 巣鴨店",
+      "latitude": 35.733559,
+      "longitude": 139.737959,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 新木場駅前店",
+      "latitude": 35.645789,
+      "longitude": 139.826109,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 本町田店",
+      "latitude": 35.56548,
+      "longitude": 139.444795,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 板橋四葉店",
+      "latitude": 35.780273,
+      "longitude": 139.651493,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 池袋西口店",
+      "latitude": 35.731789,
+      "longitude": 139.710457,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 池袋西武前店",
+      "latitude": 35.727804,
+      "longitude": 139.712175,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 浮間公園店",
+      "latitude": 35.791887,
+      "longitude": 139.692587,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 町田森野店",
+      "latitude": 35.553694,
+      "longitude": 139.427794,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 町田鶴川店",
+      "latitude": 35.5903,
+      "longitude": 139.479013,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 稲城向陽台店",
+      "latitude": 35.641765,
+      "longitude": 139.490162,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 荻窪南口店",
+      "latitude": 35.70392,
+      "longitude": 139.621488,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 葛飾東水元店",
+      "latitude": 35.785534,
+      "longitude": 139.865482,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 調布仙川店",
+      "latitude": 35.665885,
+      "longitude": 139.58332,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:45 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 足立竹の塚店",
+      "latitude": 35.796819,
+      "longitude": 139.794693,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店 青梅店",
+      "latitude": 35.784148,
+      "longitude": 139.313201,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（中央区京橋二丁目）",
+      "latitude": 35.677399,
+      "longitude": 139.770701,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（八王子市楢原町）",
+      "latitude": 35.678013,
+      "longitude": 139.314921,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（北区田端六丁目）",
+      "latitude": 35.737888,
+      "longitude": 139.759555,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（台東区上野二丁目）",
+      "latitude": 35.708685,
+      "longitude": 139.772902,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（台東区柳橋一丁目）",
+      "latitude": 35.697507,
+      "longitude": 139.786721,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（品川区東大井一丁目）",
+      "latitude": 35.6067,
+      "longitude": 139.747247,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（品川区荏原三丁目）",
+      "latitude": 35.617514,
+      "longitude": 139.70681,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（国分寺市並木町一丁目）",
+      "latitude": 35.716525,
+      "longitude": 139.457457,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（墨田区江東橋三丁目）",
+      "latitude": 35.695197,
+      "longitude": 139.81384,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（大田区山王一丁目）",
+      "latitude": 35.590824,
+      "longitude": 139.728169,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（大田区蒲田五丁目）",
+      "latitude": 35.563002,
+      "longitude": 139.716995,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（小金井市梶野町五丁目）",
+      "latitude": 35.702144,
+      "longitude": 139.522237,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（府中市白糸台三丁目）",
+      "latitude": 35.665224,
+      "longitude": 139.514629,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（新宿区新宿三丁目）",
+      "latitude": 35.690316,
+      "longitude": 139.7047,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（日野市多摩平六丁目）",
+      "latitude": 35.667909,
+      "longitude": 139.380077,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（東村山市久米川町四丁目）",
+      "latitude": 35.760603,
+      "longitude": 139.469736,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（板橋区赤塚新町一丁目）",
+      "latitude": 35.770282,
+      "longitude": 139.645035,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（武蔵野市吉祥寺本町二丁目）",
+      "latitude": 35.703387,
+      "longitude": 139.577311,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（江戸川区一之江八丁目）",
+      "latitude": 35.685694,
+      "longitude": 139.882485,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（江戸川区東葛西六丁目）",
+      "latitude": 35.66197,
+      "longitude": 139.873464,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（江東区東陽六丁目）",
+      "latitude": 35.675353,
+      "longitude": 139.815643,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su,PH 07:30-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（渋谷区代々木三丁目）",
+      "latitude": 35.686454,
+      "longitude": 139.695021,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（渋谷区渋谷一丁目）",
+      "latitude": 35.660723,
+      "longitude": 139.70547,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（町田市森野一丁目）",
+      "latitude": 35.545064,
+      "longitude": 139.445581,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（目黒区自由が丘二丁目）",
+      "latitude": 35.607971,
+      "longitude": 139.667547,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（練馬区土支田一丁目）",
+      "latitude": 35.766064,
+      "longitude": 139.616362,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（練馬区東大泉）",
+      "latitude": 35.750768,
+      "longitude": 139.588944,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（葛飾区亀有）",
+      "latitude": 35.766989,
+      "longitude": 139.848451,
+      "chain": "コメダ珈琲店",
+      "memo": "営業時間（OSM登録値）: 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（葛飾区金町六丁目）",
+      "latitude": 35.768619,
+      "longitude": 139.870881,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（西東京市富士町三丁目）",
+      "latitude": 35.732088,
+      "longitude": 139.563357,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（調布市仙川町一丁目）",
+      "latitude": 35.661405,
+      "longitude": 139.585125,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "コメダ珈琲店（豊島区南大塚三丁目）",
+      "latitude": 35.7304,
+      "longitude": 139.728108,
+      "chain": "コメダ珈琲店",
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}

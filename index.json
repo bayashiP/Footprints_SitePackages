@@ -22,6 +22,66 @@
       "path": "packages/diskunion-kanto.json"
     },
     {
+      "id": "hardoff-offhouse-kanto",
+      "name": "ハードオフ・オフハウス 関東",
+      "description": "関東のハードオフ・オフハウス",
+      "overview": "オーディオ・楽器・デジタル家電の「ハードオフ」と、家具・衣料・生活雑貨の「オフハウス」の関東（東京・神奈川・埼玉・千葉・茨城・栃木・群馬）の店舗です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。ハードオフとオフハウスは併設店が多いため、同じ建物のものは1地点にまとめ、メモに併設店舗名を記載しています。",
+      "storeCount": 192,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/hardoff-offhouse-kanto.json"
+    },
+    {
+      "id": "komeda-tokyo",
+      "name": "コメダ珈琲店 東京",
+      "description": "東京都内のコメダ珈琲店",
+      "overview": "東京都内のコメダ珈琲店です。モーニングや長居できる喫茶店の候補をまとめて登録したい人向け。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。",
+      "storeCount": 60,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/komeda-tokyo.json"
+    },
+    {
+      "id": "mandarake-surugaya-kanto",
+      "name": "まんだらけ・駿河屋 関東",
+      "description": "関東のまんだらけ・駿河屋",
+      "overview": "マンガ・同人誌・フィギュア・レトロゲームなどを扱う「まんだらけ」と「駿河屋」の関東の店舗です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。同名の飲食店・和菓子店と区別するため、チェーンのブランドタグや中古・ホビー系の店舗種別が付いているものだけを収録しています。同じ建物・街区にある店舗は1地点にまとめ、同居する店舗名はメモに記載しています（アプリは50m以内を同一店舗として扱うため）。",
+      "storeCount": 19,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/mandarake-surugaya-kanto.json"
+    },
+    {
+      "id": "marugame-tokyo",
+      "name": "丸亀製麺 東京",
+      "description": "東京都内の丸亀製麺",
+      "overview": "東京都内の丸亀製麺です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。",
+      "storeCount": 52,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/marugame-tokyo.json"
+    },
+    {
+      "id": "starbucks-tokyo-23ku",
+      "name": "スターバックス 東京23区",
+      "description": "スターバックス 東京23区の店舗",
+      "overview": "東京23区内のスターバックスです。件数が多いため23区と多摩・島しょで分けています。アプリがジオフェンスを登録するのは現在地から近い順に最大100件なので、全件を入れても通知の対象になるのは近くの店舗だけです。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。",
+      "storeCount": 280,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/starbucks-tokyo-23ku.json"
+    },
+    {
+      "id": "starbucks-tokyo-tama",
+      "name": "スターバックス 東京 多摩・島しょ",
+      "description": "スターバックス 東京 多摩・島しょの店舗",
+      "overview": "東京都の多摩地域・島しょ部のスターバックスです（23区は別パッケージ）。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。",
+      "storeCount": 56,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/starbucks-tokyo-tama.json"
+    },
+    {
       "id": "tabelog-ramen-tokyo-2024",
       "name": "ラーメン TOKYO 百名店 2024",
       "description": "食べログ「ラーメン TOKYO 百名店 2024」選出の100店",
@@ -50,6 +110,26 @@
       "version": 1,
       "updatedAt": "2026-10-06",
       "path": "packages/tokyo-art-museum.json"
+    },
+    {
+      "id": "tokyo-cinema",
+      "name": "東京の映画館",
+      "description": "東京都内の映画館・ミニシアター",
+      "overview": "シネコンからミニシアターまで、東京都内の映画館をまとめたパッケージです。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。`amenity=cinema` の施設を収録し、TOHOシネマズ・イオンシネマのようにOSM 上で屋号しか登録されていないシネコンには所在地を添えています。同じ建物・街区にある店舗は1地点にまとめ、同居する店舗名はメモに記載しています（アプリは50m以内を同一店舗として扱うため）。",
+      "storeCount": 76,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tokyo-cinema.json"
+    },
+    {
+      "id": "tokyo-metropolitan-gardens",
+      "name": "東京都立庭園（9庭園）",
+      "description": "浜離宮・六義園など東京都立の9庭園",
+      "overview": "東京都が管理する9つの都立庭園（浜離宮恩賜庭園・旧芝離宮恩賜庭園・小石川後楽園・六義園・向島百花園・清澄庭園・旧古河庭園・旧岩崎邸庭園・殿ヶ谷戸庭園）です。季節ごとの庭園めぐりに。庭園の一覧は東京都公園協会の公式サイト、位置は OpenStreetMap の庭園・公園ポリゴン（2026-10-06 時点）から取得しています。",
+      "storeCount": 9,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tokyo-metropolitan-gardens.json"
     },
     {
       "id": "tokyo-science-museum",

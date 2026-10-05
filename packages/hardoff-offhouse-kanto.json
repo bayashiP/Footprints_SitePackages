@@ -1,0 +1,1359 @@
+{
+  "formatVersion": 1,
+  "id": "hardoff-offhouse-kanto",
+  "name": "ハードオフ・オフハウス 関東",
+  "description": "関東のハードオフ・オフハウス",
+  "overview": "オーディオ・楽器・デジタル家電の「ハードオフ」と、家具・衣料・生活雑貨の「オフハウス」の関東（東京・神奈川・埼玉・千葉・茨城・栃木・群馬）の店舗です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。ハードオフとオフハウスは併設店が多いため、同じ建物のものは1地点にまとめ、メモに併設店舗名を記載しています。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "リサイクルショップ",
+    "icon": "🔌"
+  },
+  "stores": [
+    {
+      "name": "オフハウス ベルクスモール浦和南店",
+      "latitude": 35.833579,
+      "longitude": 139.648887,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス 立川栄",
+      "latitude": 35.71114,
+      "longitude": 139.428309,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス 足立南花畑店",
+      "latitude": 35.796049,
+      "longitude": 139.820335,
+      "chain": "オフハウス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス 鎌ヶ谷店",
+      "latitude": 35.762668,
+      "longitude": 140.015579,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス 青梅新町店",
+      "latitude": 35.780198,
+      "longitude": 139.303887,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: オフハウス（青梅市新町三丁目） / 営業時間（OSM登録値）: 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス 鴻巣店",
+      "latitude": 36.054479,
+      "longitude": 139.531796,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: オフハウス（鴻巣市上谷） / 営業時間（OSM登録値）: Mo-Fr 10:30-19:30; Sa-Su,PH 10:00-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（あきる野市秋川）",
+      "latitude": 35.731226,
+      "longitude": 139.28635,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市三橋）",
+      "latitude": 35.911724,
+      "longitude": 139.605427,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市南平野）",
+      "latitude": 35.954604,
+      "longitude": 139.713556,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市宮原町）",
+      "latitude": 35.936368,
+      "longitude": 139.623353,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（さいたま市宮原町）／ハードオフ・オフハウス第2駐車場 / 営業時間（OSM登録値）: Mo-Fr 10:30-19:30; Sa,Su,PH 10:00-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市栄和）",
+      "latitude": 35.86676,
+      "longitude": 139.617164,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市深作）",
+      "latitude": 35.953058,
+      "longitude": 139.66419,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（さいたま市深作） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さいたま市西遊馬）",
+      "latitude": 35.904188,
+      "longitude": 139.574711,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（さいたま市西遊馬） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（さくら市櫻野）",
+      "latitude": 36.683365,
+      "longitude": 139.974339,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（さくら市櫻野） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（ふじみ野市駒林元町）",
+      "latitude": 35.867327,
+      "longitude": 139.527084,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（ふじみ野市駒林元町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（上尾市小敷谷）",
+      "latitude": 35.959133,
+      "longitude": 139.563787,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（佐野市富岡町）",
+      "latitude": 36.320081,
+      "longitude": 139.591754,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（八千代市大和田新田）",
+      "latitude": 35.722706,
+      "longitude": 140.091137,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（八千代市大和田新田） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（八王子市楢原町）",
+      "latitude": 35.686828,
+      "longitude": 139.306264,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（前橋市関根町）",
+      "latitude": 36.434283,
+      "longitude": 139.050464,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（前橋市関根町）／ハードオフ（前橋市関根町二丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（加須市睦町）",
+      "latitude": 36.127232,
+      "longitude": 139.607564,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（千葉市東千葉）",
+      "latitude": 35.624397,
+      "longitude": 140.127992,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（宇都宮市上戸祭町）",
+      "latitude": 36.58758,
+      "longitude": 139.865254,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（宇都宮市西川田本町）",
+      "latitude": 36.51538,
+      "longitude": 139.844133,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（宇都宮市西川田本町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（小山市駅南町）",
+      "latitude": 36.299763,
+      "longitude": 139.811537,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（小田原市前川）",
+      "latitude": 35.280249,
+      "longitude": 139.195157,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（川口市上青木）",
+      "latitude": 35.832076,
+      "longitude": 139.721093,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（川口市峯）",
+      "latitude": 35.832737,
+      "longitude": 139.775065,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（川口市峯） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（川越市今福）",
+      "latitude": 35.884252,
+      "longitude": 139.475944,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（川越市今福） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（川越市天沼新田）",
+      "latitude": 35.932155,
+      "longitude": 139.420168,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（市原市辰巳台西）",
+      "latitude": 35.519282,
+      "longitude": 140.148539,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（平塚市四之宮）",
+      "latitude": 35.359781,
+      "longitude": 139.358231,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（春日部市備後東）",
+      "latitude": 35.960084,
+      "longitude": 139.773358,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（栃木市薗部町）",
+      "latitude": 36.3804,
+      "longitude": 139.716563,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（横浜市茅ケ崎中央）",
+      "latitude": 35.546681,
+      "longitude": 139.576498,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（白井市桜台）",
+      "latitude": 35.799722,
+      "longitude": 140.109733,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（白井市桜台） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（益子町大沢）",
+      "latitude": 36.49041,
+      "longitude": 140.101068,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（相模原市緑区西橋本四丁目）",
+      "latitude": 35.595039,
+      "longitude": 139.32998,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（相模原市田名）",
+      "latitude": 35.553059,
+      "longitude": 139.340917,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（秦野市平沢）",
+      "latitude": 35.37115,
+      "longitude": 139.196942,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（筑西市玉戸）",
+      "latitude": 36.294836,
+      "longitude": 139.946232,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（筑西市玉戸） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（越谷市東越谷）",
+      "latitude": 35.896658,
+      "longitude": 139.796763,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（足利市助戸東山町）",
+      "latitude": 36.335841,
+      "longitude": 139.467408,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（那須塩原市住吉町）",
+      "latitude": 36.965105,
+      "longitude": 140.051364,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（那須塩原市南郷屋）",
+      "latitude": 36.891508,
+      "longitude": 139.988094,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（那須塩原市南郷屋） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（野田市桜台）",
+      "latitude": 35.933969,
+      "longitude": 139.873558,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（館林市近藤町）",
+      "latitude": 36.241359,
+      "longitude": 139.504043,
+      "chain": "オフハウス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "オフハウス（高崎市緑町）",
+      "latitude": 36.353322,
+      "longitude": 139.010432,
+      "chain": "オフハウス",
+      "memo": "同じ場所の店舗: ハードオフ（高崎市緑町）／ハードオフ（高崎市緑町四丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ  オフハウス  ホビーオフ  草加瀬崎店",
+      "latitude": 35.81548,
+      "longitude": 139.812305,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 中央林間りんかんモール店",
+      "latitude": 35.50262,
+      "longitude": 139.4516,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 八王子大和田店",
+      "latitude": 35.662756,
+      "longitude": 139.352339,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（八王子市） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 埼玉東松山店",
+      "latitude": 36.039353,
+      "longitude": 139.388284,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（東松山市松葉町）／ハードオフ工具館 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 小金井店",
+      "latitude": 35.687992,
+      "longitude": 139.49815,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 川越神明町店",
+      "latitude": 35.930273,
+      "longitude": 139.480322,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（川越市神明町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 市ヶ尾店",
+      "latitude": 35.542828,
+      "longitude": 139.551566,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 戸田駅西口店",
+      "latitude": 35.816213,
+      "longitude": 139.66591,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（戸田市新曽） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 新座店",
+      "latitude": 35.795457,
+      "longitude": 139.572555,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 松戸古ケ崎店",
+      "latitude": 35.79622,
+      "longitude": 139.897103,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 横浜緑園都市店",
+      "latitude": 35.448028,
+      "longitude": 139.52559,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 町田木曽店",
+      "latitude": 35.565676,
+      "longitude": 139.422976,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 相模原矢部店",
+      "latitude": 35.571666,
+      "longitude": 139.377447,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 秋葉原1号館",
+      "latitude": 35.700536,
+      "longitude": 139.770534,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 秋葉原2号館",
+      "latitude": 35.702144,
+      "longitude": 139.770646,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 立川西砂店",
+      "latitude": 35.729797,
+      "longitude": 139.360796,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 綾瀬店",
+      "latitude": 35.461871,
+      "longitude": 139.430254,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ 船橋夏見台店",
+      "latitude": 35.723003,
+      "longitude": 139.991917,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ・オフハウス水戸千波店",
+      "latitude": 36.364406,
+      "longitude": 140.450486,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ上野御徒町店",
+      "latitude": 35.708697,
+      "longitude": 139.774143,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 11:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ工具館",
+      "latitude": 35.322964,
+      "longitude": 139.92384,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（君津市外箕輪三丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ工具館2",
+      "latitude": 35.515076,
+      "longitude": 140.067124,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（あきる野市秋川）",
+      "latitude": 35.730201,
+      "longitude": 139.289657,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市北区吉野町二丁目）",
+      "latitude": 35.95886,
+      "longitude": 139.607343,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市上小町）",
+      "latitude": 35.895849,
+      "longitude": 139.611723,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市南中野）",
+      "latitude": 35.905909,
+      "longitude": 139.656897,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（さいたま市南中野） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市南区）",
+      "latitude": 35.840174,
+      "longitude": 139.659822,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市南区）2",
+      "latitude": 35.858729,
+      "longitude": 139.677336,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（さいたま市東大宮）",
+      "latitude": 35.947988,
+      "longitude": 139.640369,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（つくば市研究学園）",
+      "latitude": 36.087422,
+      "longitude": 140.073951,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（つくば市研究学園） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（みどり市笠懸町）",
+      "latitude": 36.385065,
+      "longitude": 139.268384,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ（みどり市笠懸町鹿） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（三芳町）",
+      "latitude": 35.830872,
+      "longitude": 139.533198,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（三郷市泉）",
+      "latitude": 35.841156,
+      "longitude": 139.859701,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（三郷市泉） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（三鷹市深大寺）",
+      "latitude": 35.690953,
+      "longitude": 139.538099,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（上尾市本町五丁目）",
+      "latitude": 35.982695,
+      "longitude": 139.589029,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ（上尾市本町）／オフハウス（上尾市本町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（上尾市浅間台）",
+      "latitude": 35.981455,
+      "longitude": 139.57496,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ（上尾市浅間台二丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（下野市下古山）",
+      "latitude": 36.450503,
+      "longitude": 139.865736,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウスジャンク館 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（久喜市久喜本）",
+      "latitude": 36.074073,
+      "longitude": 139.663707,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（久喜市久喜本） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（伊勢原市串橋）",
+      "latitude": 35.39173,
+      "longitude": 139.284205,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（伊勢原市高森）",
+      "latitude": 35.414361,
+      "longitude": 139.334766,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（伊勢崎市宮子町）",
+      "latitude": 36.330199,
+      "longitude": 139.160088,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（伊勢崎市宮子町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（伊勢崎氏南千木町）",
+      "latitude": 36.29661,
+      "longitude": 139.213525,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（伊勢崎氏南千木町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（佐倉市王子台）",
+      "latitude": 35.725341,
+      "longitude": 140.180096,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（佐野市浅沼町）",
+      "latitude": 36.310114,
+      "longitude": 139.591903,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（入間市下藤沢）",
+      "latitude": 35.828471,
+      "longitude": 139.407966,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（入間市下藤沢） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（八王子市堀之内）",
+      "latitude": 35.627179,
+      "longitude": 139.399811,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（八王子市椚田町）",
+      "latitude": 35.639502,
+      "longitude": 139.308453,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（前橋市天川町）",
+      "latitude": 36.375605,
+      "longitude": 139.089955,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（前橋市天川町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（加須市琴寄）",
+      "latitude": 36.127679,
+      "longitude": 139.682175,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（加須市琴寄） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（加須市諏訪）",
+      "latitude": 36.130479,
+      "longitude": 139.599962,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（北本市二ツ家）",
+      "latitude": 36.011542,
+      "longitude": 139.552748,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（北本市二ツ家） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（千葉市おゆみ野中央）",
+      "latitude": 35.554096,
+      "longitude": 140.164806,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（千葉市おゆみ野中央） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（千葉市浜野町）",
+      "latitude": 35.548718,
+      "longitude": 140.142066,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（千葉市浜野町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（千葉市長沼原町）",
+      "latitude": 35.657978,
+      "longitude": 140.128265,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（千葉市長沼原町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（千葉市高洲）",
+      "latitude": 35.628624,
+      "longitude": 140.075026,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（千葉市高洲） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（厚木市戸室）",
+      "latitude": 35.447209,
+      "longitude": 139.344903,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（取手市戸頭）",
+      "latitude": 35.922272,
+      "longitude": 140.011311,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（古河市小堤）",
+      "latitude": 36.207113,
+      "longitude": 139.755551,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（古河市小堤） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（吉川市中野）",
+      "latitude": 35.880805,
+      "longitude": 139.853435,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（君津市外箕輪）",
+      "latitude": 35.323479,
+      "longitude": 139.924831,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（君津市外箕輪） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（品川区荏原）",
+      "latitude": 35.617322,
+      "longitude": 139.707133,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（四街道市大日）",
+      "latitude": 35.676902,
+      "longitude": 140.162032,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（四街道市大日） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（坂戸市千代田３丁目）",
+      "latitude": 35.954951,
+      "longitude": 139.407639,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（坂戸市千代田３丁目）／ハードオフ（坂戸市千代田三丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（墨田区江東橋）",
+      "latitude": 35.695197,
+      "longitude": 139.81377,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（多摩市和田）",
+      "latitude": 35.643472,
+      "longitude": 139.429312,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（多摩市和田） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（大和市つきみ野）",
+      "latitude": 35.504292,
+      "longitude": 139.462836,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（大和市渋谷五丁目）",
+      "latitude": 35.432489,
+      "longitude": 139.461569,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（大泉町坂田）",
+      "latitude": 36.257494,
+      "longitude": 139.395736,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（大泉町坂田）／ハードオフ（大泉町大字坂田） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（宇都宮市上横田町）",
+      "latitude": 36.524876,
+      "longitude": 139.880899,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（宇都宮市上横田町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（宇都宮市今泉町）",
+      "latitude": 36.571949,
+      "longitude": 139.914741,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: たいらや　ハードオフ / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（宇都宮市陽東）",
+      "latitude": 36.55743,
+      "longitude": 139.934626,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（宇都宮市陽東） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（宇都宮市鶴田町）",
+      "latitude": 36.556065,
+      "longitude": 139.850939,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（宇都宮市鶴田町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（富里市七栄）",
+      "latitude": 35.748869,
+      "longitude": 140.311045,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（富里市七栄） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（小山市花垣町）",
+      "latitude": 36.3259,
+      "longitude": 139.810115,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（小山市西城南）",
+      "latitude": 36.289679,
+      "longitude": 139.805827,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（小平市上水本町）",
+      "latitude": 35.717275,
+      "longitude": 139.468063,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（小平市花小金井）",
+      "latitude": 35.733715,
+      "longitude": 139.512323,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（小田原市前川）",
+      "latitude": 35.279677,
+      "longitude": 139.194695,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（山武市成東）",
+      "latitude": 35.593374,
+      "longitude": 140.396748,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（川口市上青木）",
+      "latitude": 35.824526,
+      "longitude": 139.724734,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（川崎市小田栄）",
+      "latitude": 35.514877,
+      "longitude": 139.706859,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（市原市南国分寺台）",
+      "latitude": 35.494115,
+      "longitude": 140.116906,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（市川市南大野）",
+      "latitude": 35.741752,
+      "longitude": 139.94795,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（市川市関ケ島）",
+      "latitude": 35.687507,
+      "longitude": 139.917934,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（平塚市四之宮）",
+      "latitude": 35.349947,
+      "longitude": 139.354815,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ（平塚市四之宮二丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（幸手市東）",
+      "latitude": 36.073205,
+      "longitude": 139.725924,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（幸手市東） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（座間市相模が丘）",
+      "latitude": 35.503344,
+      "longitude": 139.423387,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（愛川町中津）",
+      "latitude": 35.528031,
+      "longitude": 139.331049,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（所沢市東所沢和田一丁目）",
+      "latitude": 35.792726,
+      "longitude": 139.510375,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（所沢市東所沢和田一丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（所沢市西所沢）",
+      "latitude": 35.789706,
+      "longitude": 139.459552,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: PH,Mo-Su 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（日高市鹿山）",
+      "latitude": 35.895795,
+      "longitude": 139.341088,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（日高市鹿山） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（春日部市西金野井）",
+      "latitude": 35.988704,
+      "longitude": 139.805797,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（春日部市豊町）",
+      "latitude": 35.967934,
+      "longitude": 139.736655,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（春日部市豊町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（木更津市長須賀）",
+      "latitude": 35.396336,
+      "longitude": 139.938128,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（木更津市長須賀） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（本庄市寿）",
+      "latitude": 36.233204,
+      "longitude": 139.20857,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（本庄市寿） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（杉並区高円寺北）",
+      "latitude": 35.706698,
+      "longitude": 139.649867,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（杉戸町杉戸）",
+      "latitude": 36.029692,
+      "longitude": 139.729998,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（杉戸町杉戸） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（東大和市仲原）",
+      "latitude": 35.745407,
+      "longitude": 139.435351,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（東村山市恩多町）",
+      "latitude": 35.753942,
+      "longitude": 139.480438,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（板橋区赤塚）",
+      "latitude": 35.777743,
+      "longitude": 139.642482,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（柏市大津ヶ丘）",
+      "latitude": 35.842344,
+      "longitude": 140.001124,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（柏市豊四季）",
+      "latitude": 35.864096,
+      "longitude": 139.948003,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（柏市高柳）",
+      "latitude": 35.807984,
+      "longitude": 139.998281,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（柏市高柳） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（栄町安食）",
+      "latitude": 35.837242,
+      "longitude": 140.250608,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（桐生市広沢町）",
+      "latitude": 36.373986,
+      "longitude": 139.350963,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（桐生市広沢町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（桶川市坂田）",
+      "latitude": 36.012748,
+      "longitude": 139.564166,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（桶川市坂田） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（横浜市いぶき野）",
+      "latitude": 35.529387,
+      "longitude": 139.503867,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（横浜市奈良）",
+      "latitude": 35.548196,
+      "longitude": 139.483006,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（横浜市奈良） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（横浜市富岡東）",
+      "latitude": 35.372228,
+      "longitude": 139.631127,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（武蔵野市吉祥寺東町一丁目）",
+      "latitude": 35.706506,
+      "longitude": 139.581283,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（水戸市けやき台三丁目）",
+      "latitude": 36.335178,
+      "longitude": 140.485755,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（深谷市上柴町西）",
+      "latitude": 36.175767,
+      "longitude": 139.295323,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（深谷市上柴町西）／ハードオフ（深谷市上柴町西七丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（熊谷市月見町）",
+      "latitude": 36.146566,
+      "longitude": 139.369999,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（熊谷市月見町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（牛久市栄町）",
+      "latitude": 35.979096,
+      "longitude": 140.152004,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（狭山市下奥富）",
+      "latitude": 35.877146,
+      "longitude": 139.430161,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（狭山市下奥富） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（白岡市西）",
+      "latitude": 36.012939,
+      "longitude": 139.654231,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（目黒区鷹番）",
+      "latitude": 35.629086,
+      "longitude": 139.686962,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（相模原市緑区東橋本二丁目）",
+      "latitude": 35.594144,
+      "longitude": 139.350548,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（相模原市下九沢）",
+      "latitude": 35.575521,
+      "longitude": 139.346509,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（真岡市並木町）",
+      "latitude": 36.443184,
+      "longitude": 140.000872,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（神栖市居切）",
+      "latitude": 35.926985,
+      "longitude": 140.641311,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（秦野市沼代新町）",
+      "latitude": 35.377891,
+      "longitude": 139.176584,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ 秦野渋沢店 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（稲城市矢野口）",
+      "latitude": 35.641798,
+      "longitude": 139.51532,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（練馬区大泉町）",
+      "latitude": 35.75683,
+      "longitude": 139.597017,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（羽村市栄町）",
+      "latitude": 35.770237,
+      "longitude": 139.309075,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（羽村市神明台）",
+      "latitude": 35.762214,
+      "longitude": 139.326195,
+      "chain": "ハードオフ",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:30-19:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（羽生市中央５丁目）",
+      "latitude": 36.171857,
+      "longitude": 139.543646,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（羽生市中央５丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（船橋市海神町）",
+      "latitude": 35.69868,
+      "longitude": 139.974985,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（船橋市習志野台）",
+      "latitude": 35.720897,
+      "longitude": 140.052366,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（茅ヶ崎市高田）",
+      "latitude": 35.343223,
+      "longitude": 139.411467,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（草加市塩崎）",
+      "latitude": 35.814293,
+      "longitude": 139.812073,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（草加市塩崎） / 営業時間（OSM登録値）: Mo-Su 11:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（草加市草加）",
+      "latitude": 35.836492,
+      "longitude": 139.79774,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（藤沢市藤沢）",
+      "latitude": 35.339514,
+      "longitude": 139.483678,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（行田市長野）",
+      "latitude": 36.145446,
+      "longitude": 139.472406,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: ハードオフ（行田市長野一丁目） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（袖ヶ浦市蔵波台）",
+      "latitude": 35.444522,
+      "longitude": 139.991312,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（袖ヶ浦市蔵波台） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（越谷市南町三丁目）",
+      "latitude": 35.86157,
+      "longitude": 139.805866,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（越谷市南町）",
+      "latitude": 35.860877,
+      "longitude": 139.805626,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（越谷市南町） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（越谷市宮本町）",
+      "latitude": 35.887326,
+      "longitude": 139.772821,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（越谷市花田）",
+      "latitude": 35.909262,
+      "longitude": 139.797545,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（鎌ヶ谷市東道野辺）",
+      "latitude": 35.750407,
+      "longitude": 140.001127,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（鎌ヶ谷市東道野辺） / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（鎌倉市岡本）",
+      "latitude": 35.34728,
+      "longitude": 139.517023,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（高崎市高関町）",
+      "latitude": 36.327657,
+      "longitude": 139.026481,
+      "chain": "ハードオフ",
+      "memo": "同じ場所の店舗: オフハウス（高崎市高関町） / 営業時間（OSM登録値）: Mo-Su 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（鶴ヶ島市脚折町）",
+      "latitude": 35.945411,
+      "longitude": 139.394248,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "ハードオフ（鹿沼市栄町）",
+      "latitude": 36.552247,
+      "longitude": 139.776862,
+      "chain": "ハードオフ",
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}
