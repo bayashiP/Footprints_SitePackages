@@ -1,0 +1,379 @@
+{
+  "formatVersion": 1,
+  "id": "marugame-tokyo",
+  "name": "丸亀製麺 東京",
+  "description": "東京都内の丸亀製麺",
+  "overview": "東京都内の丸亀製麺です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "うどん",
+    "icon": "🍜"
+  },
+  "stores": [
+    {
+      "name": "丸亀製麺 SUNAMO店",
+      "latitude": 35.665091,
+      "longitude": 139.834652,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 あきる野店",
+      "latitude": 35.729805,
+      "longitude": 139.289667,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 アトレ秋葉原1店",
+      "latitude": 35.698366,
+      "longitude": 139.772178,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 エミオ秋津",
+      "latitude": 35.778299,
+      "longitude": 139.496534,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: 10:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 中野セントラルパーク店",
+      "latitude": 35.707171,
+      "longitude": 139.661389,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 八王子アイロード",
+      "latitude": 35.657111,
+      "longitude": 139.341154,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 多摩ニュータウン",
+      "latitude": 35.619769,
+      "longitude": 139.397757,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 11:00-22:00; Sa,Su,PH 10:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 小平店",
+      "latitude": 35.730571,
+      "longitude": 139.50173,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 新宿御苑前店",
+      "latitude": 35.688241,
+      "longitude": 139.71169,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 東京オペラシティ",
+      "latitude": 35.682474,
+      "longitude": 139.687253,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 武蔵境",
+      "latitude": 35.704197,
+      "longitude": 139.546368,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Su 09:00-21:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 武蔵村山店",
+      "latitude": 35.748753,
+      "longitude": 139.406559,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 環八平和台店",
+      "latitude": 35.75648,
+      "longitude": 139.649372,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Su 11:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 福生店",
+      "latitude": 35.743692,
+      "longitude": 139.324648,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 立川",
+      "latitude": 35.708408,
+      "longitude": 139.422293,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 11:00-22:00; Sa-Su,PH 10:30-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺 青梅店",
+      "latitude": 35.786074,
+      "longitude": 139.308922,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（世田谷区北沢二丁目）",
+      "latitude": 35.659782,
+      "longitude": 139.667476,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（世田谷区船橋一丁目）",
+      "latitude": 35.64765,
+      "longitude": 139.623758,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo 11:00-22:00; Tu 11:00-15:30; We-Su 11:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（八王子市みなみ野一丁目）",
+      "latitude": 35.631444,
+      "longitude": 139.330093,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（八王子市楢原町）",
+      "latitude": 35.684246,
+      "longitude": 139.302535,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（八王子市高倉町）",
+      "latitude": 35.665521,
+      "longitude": 139.366466,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（北区神谷三丁目）",
+      "latitude": 35.774603,
+      "longitude": 139.7318,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（千代田区神田小川町三丁目）",
+      "latitude": 35.694985,
+      "longitude": 139.761711,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（千代田区神田駿河台四丁目）",
+      "latitude": 35.6991,
+      "longitude": 139.765095,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 10:00-22:00; Sa,Su 11:00-22:39; PH off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（台東区上野四丁目）",
+      "latitude": 35.710209,
+      "longitude": 139.773988,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（台東区浅草一丁目）",
+      "latitude": 35.712492,
+      "longitude": 139.793378,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（品川区北品川一丁目）",
+      "latitude": 35.624467,
+      "longitude": 139.739686,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（墨田区横網一丁目）",
+      "latitude": 35.69576,
+      "longitude": 139.792701,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: Mo-Su 11:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（府中市宮町一丁目）",
+      "latitude": 35.671604,
+      "longitude": 139.480009,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（新宿区西新宿七丁目）",
+      "latitude": 35.696509,
+      "longitude": 139.697911,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（昭島市郷地町三丁目）",
+      "latitude": 35.693808,
+      "longitude": 139.386609,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（東村山市秋津町二丁目）",
+      "latitude": 35.76847,
+      "longitude": 139.487606,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（板橋区徳丸二丁目）",
+      "latitude": 35.769844,
+      "longitude": 139.661048,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（武蔵村山市榎一丁目）",
+      "latitude": 35.746889,
+      "longitude": 139.38448,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（江東区東陽四丁目）",
+      "latitude": 35.671918,
+      "longitude": 139.816496,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（江東区豊洲三丁目）",
+      "latitude": 35.656718,
+      "longitude": 139.79829,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（渋谷区宇田川町）",
+      "latitude": 35.661005,
+      "longitude": 139.698729,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（渋谷区渋谷一丁目）",
+      "latitude": 35.661522,
+      "longitude": 139.702498,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（港区海岸一丁目）",
+      "latitude": 35.656498,
+      "longitude": 139.759566,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（港区芝浦一丁目）",
+      "latitude": 35.649277,
+      "longitude": 139.756543,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（町田市森野一丁目）",
+      "latitude": 35.543371,
+      "longitude": 139.443986,
+      "chain": "丸亀製麺",
+      "memo": "営業時間（OSM登録値）: 11:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（町田市金井八丁目）",
+      "latitude": 35.577712,
+      "longitude": 139.469717,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（練馬区上石神井二丁目）",
+      "latitude": 35.729505,
+      "longitude": 139.595934,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（練馬区旭町三丁目）",
+      "latitude": 35.779434,
+      "longitude": 139.624777,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（練馬区東大泉一丁目）",
+      "latitude": 35.750105,
+      "longitude": 139.587713,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（練馬区石神井町三丁目）",
+      "latitude": 35.742997,
+      "longitude": 139.606338,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（葛飾区亀有三丁目）",
+      "latitude": 35.763694,
+      "longitude": 139.852934,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（葛飾区東金町一丁目）",
+      "latitude": 35.769741,
+      "longitude": 139.866951,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（豊島区南池袋二丁目）",
+      "latitude": 35.727799,
+      "longitude": 139.713539,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（足立区伊興本町一丁目）",
+      "latitude": 35.798591,
+      "longitude": 139.789057,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（足立区西加平一丁目）",
+      "latitude": 35.778424,
+      "longitude": 139.821921,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "丸亀製麺（足立区鹿浜一丁目）",
+      "latitude": 35.778224,
+      "longitude": 139.755057,
+      "chain": "丸亀製麺",
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}

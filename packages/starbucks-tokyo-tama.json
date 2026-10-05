@@ -1,0 +1,407 @@
+{
+  "formatVersion": 1,
+  "id": "starbucks-tokyo-tama",
+  "name": "スターバックス 東京 多摩・島しょ",
+  "description": "スターバックス 東京 多摩・島しょの店舗",
+  "overview": "東京都の多摩地域・島しょ部のスターバックスです（23区は別パッケージ）。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "カフェ",
+    "icon": "☕"
+  },
+  "stores": [
+    {
+      "name": "スターバックス nonowa国立店",
+      "latitude": 35.69938,
+      "longitude": 139.446934,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス nonowa武蔵小金井店",
+      "latitude": 35.701008,
+      "longitude": 139.506986,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス nonowa西国分寺店",
+      "latitude": 35.69992,
+      "longitude": 139.465832,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス ぽっぽ町田店",
+      "latitude": 35.542156,
+      "longitude": 139.448953,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス アトレヴィ三鷹店",
+      "latitude": 35.702429,
+      "longitude": 139.560982,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 06:30-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス アトレ吉祥寺店",
+      "latitude": 35.703105,
+      "longitude": 139.579217,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:30-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス イオンモールむさし村山店",
+      "latitude": 35.745693,
+      "longitude": 139.38502,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス イオンモール多摩平の森店",
+      "latitude": 35.661907,
+      "longitude": 139.380652,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 09:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス カインズホーム青梅店",
+      "latitude": 35.793989,
+      "longitude": 139.315946,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス キラリナ京王吉祥寺店",
+      "latitude": 35.702753,
+      "longitude": 139.579898,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス サザンスカイタワー八王子店",
+      "latitude": 35.654686,
+      "longitude": 139.337991,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス セレオ八王子北館店",
+      "latitude": 35.656257,
+      "longitude": 139.339032,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス フレンテ南大沢店",
+      "latitude": 35.61397,
+      "longitude": 139.379477,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス ルミネ町田店",
+      "latitude": 35.541899,
+      "longitude": 139.446232,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス ルミネ立川店",
+      "latitude": 35.698588,
+      "longitude": 139.413592,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 井の頭公園店",
+      "latitude": 35.700775,
+      "longitude": 139.578193,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 08:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 仙川駅前店",
+      "latitude": 35.661479,
+      "longitude": 139.585758,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 元八王子店",
+      "latitude": 35.66491,
+      "longitude": 139.288058,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-24:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 八王子オクトーレ店",
+      "latitude": 35.657222,
+      "longitude": 139.338567,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 八王子宇津木店",
+      "latitude": 35.683781,
+      "longitude": 139.346786,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 吉祥寺東急店",
+      "latitude": 35.705315,
+      "longitude": 139.577652,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 09:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 吉祥寺駅前店",
+      "latitude": 35.703983,
+      "longitude": 139.580502,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 06:30-23:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 国分寺店",
+      "latitude": 35.701015,
+      "longitude": 139.481401,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 07:00-22:30; Sa,Su,PH 07:30-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 国立店",
+      "latitude": 35.69794,
+      "longitude": 139.446931,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 多摩センター三越店",
+      "latitude": 35.622856,
+      "longitude": 139.425205,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 多摩境店",
+      "latitude": 35.600072,
+      "longitude": 139.379605,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-02:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 多摩野猿街道店",
+      "latitude": 35.628837,
+      "longitude": 139.401174,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-24:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 小田急町田駅店",
+      "latitude": 35.544527,
+      "longitude": 139.445809,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:30-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 府中くるる店",
+      "latitude": 35.67165,
+      "longitude": 139.480995,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 日野万願寺店",
+      "latitude": 35.670195,
+      "longitude": 139.411244,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 昭島モリタウン店",
+      "latitude": 35.713768,
+      "longitude": 139.364122,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 杏林大学病院店",
+      "latitude": 35.677501,
+      "longitude": 139.566769,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Sa 07:00-21:00; Su,PH 10:00-20:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 武蔵境イトーヨーカドー店",
+      "latitude": 35.701228,
+      "longitude": 139.544916,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 清瀬駅前店",
+      "latitude": 35.772561,
+      "longitude": 139.519852,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 町田パリオ店",
+      "latitude": 35.54315,
+      "longitude": 139.444059,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 町田東急ツインズEAST店",
+      "latitude": 35.542577,
+      "longitude": 139.446915,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 町田東急ツインズWEST店",
+      "latitude": 35.543025,
+      "longitude": 139.446294,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 10:00-21:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 町田金森店",
+      "latitude": 35.52991,
+      "longitude": 139.46214,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: 00:00-02:00,07:00-24:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 福生西友店",
+      "latitude": 35.743668,
+      "longitude": 139.328016,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 09:00-23:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 立川伊勢丹店",
+      "latitude": 35.699328,
+      "longitude": 139.413288,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:30-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 立川若葉店",
+      "latitude": 35.720294,
+      "longitude": 139.436773,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-24:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 聖蹟桜ヶ丘オーパ店",
+      "latitude": 35.649787,
+      "longitude": 139.446764,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 調布パルコ店",
+      "latitude": 35.652662,
+      "longitude": 139.543746,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス 鶴川店",
+      "latitude": 35.583223,
+      "longitude": 139.480425,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Su 07:00-22:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（三鷹市井口二丁目）",
+      "latitude": 35.688853,
+      "longitude": 139.550283,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（国分寺市本町三丁目）",
+      "latitude": 35.700898,
+      "longitude": 139.48021,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（小平市天神町一丁目）",
+      "latitude": 35.730432,
+      "longitude": 139.494025,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（府中市西府町二丁目）",
+      "latitude": 35.674233,
+      "longitude": 139.45741,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（武蔵村山市榎三丁目）",
+      "latitude": 35.751078,
+      "longitude": 139.387541,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（武蔵野市吉祥寺本町一丁目）",
+      "latitude": 35.70353,
+      "longitude": 139.577954,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（武蔵野市桜堤二丁目）",
+      "latitude": 35.712164,
+      "longitude": 139.533355,
+      "chain": "スターバックス",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 07:30-22:30; Sa-Su 07:00-22:30; PH 07:00-22:30 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（町田市鶴間三丁目）",
+      "latitude": 35.509883,
+      "longitude": 139.472637,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（稲城市東長沼）",
+      "latitude": 35.638025,
+      "longitude": 139.508374,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（立川市柴崎町三丁目）",
+      "latitude": 35.697361,
+      "longitude": 139.414128,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（調布市仙川町三丁目）",
+      "latitude": 35.663192,
+      "longitude": 139.584828,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "スターバックス（調布市布田四丁目）",
+      "latitude": 35.651927,
+      "longitude": 139.544464,
+      "chain": "スターバックス",
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "formatVersion": 1,
+  "id": "tokyo-metropolitan-gardens",
+  "name": "東京都立庭園（9庭園）",
+  "description": "浜離宮・六義園など東京都立の9庭園",
+  "overview": "東京都が管理する9つの都立庭園（浜離宮恩賜庭園・旧芝離宮恩賜庭園・小石川後楽園・六義園・向島百花園・清澄庭園・旧古河庭園・旧岩崎邸庭園・殿ヶ谷戸庭園）です。季節ごとの庭園めぐりに。庭園の一覧は東京都公園協会の公式サイト、位置は OpenStreetMap の庭園・公園ポリゴン（2026-10-06 時点）から取得しています。",
+  "version": 1,
+  "updatedAt": "2026-10-06",
+  "suggestedCategory": {
+    "name": "庭園",
+    "icon": "🌳"
+  },
+  "stores": [
+    {
+      "name": "六義園",
+      "latitude": 35.733242,
+      "longitude": 139.746401,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Su 09:00-17:00 / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "向島百花園",
+      "latitude": 35.724251,
+      "longitude": 139.815542,
+      "memo": "東京都立庭園（9庭園） / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "小石川後楽園",
+      "latitude": 35.705359,
+      "longitude": 139.749461,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Fr 09:00-17:00; Dec 29-Jan 01 off / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "旧古河庭園",
+      "latitude": 35.742518,
+      "longitude": 139.746252,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Su 09:00-17:00 / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "旧岩崎邸庭園",
+      "latitude": 35.709508,
+      "longitude": 139.767815,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Su 09:00-17:00; Dec 29-Jan 01 off / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "旧芝離宮恩賜庭園",
+      "latitude": 35.654979,
+      "longitude": 139.758566,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: 09:00-17:00 / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "殿ヶ谷戸庭園",
+      "latitude": 35.698668,
+      "longitude": 139.482103,
+      "memo": "東京都立庭園（9庭園） / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "浜離宮恩賜庭園",
+      "latitude": 35.660203,
+      "longitude": 139.7637,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Su 09:00-17:00; Dec 29-Jan 01 off / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    },
+    {
+      "name": "清澄庭園",
+      "latitude": 35.679859,
+      "longitude": 139.797716,
+      "memo": "東京都立庭園（9庭園） / 開園時間（OSM登録値）: Mo-Su 09:00-17:00; Dec 29-Jan 01 off / 出典: 東京都公園協会（庭園の一覧）／OpenStreetMap（位置）"
+    }
+  ]
+}
