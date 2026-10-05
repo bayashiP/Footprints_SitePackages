@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "packages": [
+    {
+      "id": "bookoff-tokyo",
+      "name": "ブックオフ 東京都内",
+      "description": "東京都内のブックオフ各店",
+      "overview": "東京都内にあるブックオフの店舗をまとめたパッケージです。中古本・中古ソフトの買取／販売店で、立ち寄り先の候補をまとめて登録したい人向けです。OpenStreetMap に登録されている店舗データ（2026-10-02 時点）を元に作成しており、OSM に支店名が無い店舗は所在地の市区町村・町丁名を店名に添えています。",
+      "storeCount": 78,
+      "version": 1,
+      "updatedAt": "2026-10-02",
+      "path": "packages/bookoff-tokyo.json"
+    }
+  ]
+}
