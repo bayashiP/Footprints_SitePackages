@@ -1,0 +1,103 @@
+{
+  "formatVersion": 1,
+  "id": "tokyo-zoo-aquarium",
+  "name": "東京の動物園・水族館",
+  "description": "東京都内の動物園・水族館",
+  "overview": "東京都内にある動物園・水族館をまとめたパッケージです。お出かけ先の候補をまとめて登録したい人向け。OpenStreetMap の `tourism=zoo` / `tourism=aquarium` の施設（2026-10-05 時点）を元に作成し、園内の展示コーナー・植物園・研究施設・観賞魚店は除外しています。伊豆大島・小笠原の施設も含みます。",
+  "version": 1,
+  "updatedAt": "2026-10-05",
+  "suggestedCategory": {
+    "name": "動物園・水族館",
+    "icon": "🐾"
+  },
+  "stores": [
+    {
+      "name": "しながわ水族館",
+      "latitude": 35.588635,
+      "longitude": 139.737465,
+      "address": "東京都品川区勝島2-1",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 10:00-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "すみだ水族館",
+      "latitude": 35.710101,
+      "longitude": 139.809334,
+      "address": "東京都墨田区押上一丁目1-2",
+      "memo": "営業時間（OSM登録値）: Mo-Fr 10:00-20:00 \"Admission ends one hour prior to closing time\"; Sa-Su 09:00-21:00 \"Admission ends one hour prior to closing time\"; PH 09:00-21:00 \"Admission ends one hour prior to closing time\" / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "サンシャイン水族館",
+      "latitude": 35.729139,
+      "longitude": 139.720273,
+      "memo": "OSM上の名称は旧称「サンシャイン国際水族館」 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "マクセル アクアパーク品川",
+      "latitude": 35.628389,
+      "longitude": 139.735754,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "井の頭自然文化園",
+      "latitude": 35.700884,
+      "longitude": 139.571361,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "多摩動物公園",
+      "latitude": 35.65069,
+      "longitude": 139.399804,
+      "memo": "営業時間（OSM登録値）: Th-Tu 09:30-17:00; We off / 出典: OpenStreetMap"
+    },
+    {
+      "name": "小笠原海洋センター",
+      "latitude": 27.093924,
+      "longitude": 142.203785,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "恩賜上野動物園",
+      "latitude": 35.715326,
+      "longitude": 139.770543,
+      "memo": "営業時間（OSM登録値）: Mo off; Tu-Su 09:30-17:00; Dec 29-Jan01 / 入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "江戸川区自然動物園",
+      "latitude": 35.671058,
+      "longitude": 139.858454,
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "町田リス園",
+      "latitude": 35.577979,
+      "longitude": 139.449979,
+      "address": "東京都町田市薬師台733-1",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "羽村市動物公園",
+      "latitude": 35.767022,
+      "longitude": 139.32891,
+      "address": "東京都羽村市羽-4122",
+      "memo": "出典: OpenStreetMap"
+    },
+    {
+      "name": "葛西臨海水族園",
+      "latitude": 35.640784,
+      "longitude": 139.861951,
+      "memo": "営業時間（OSM登録値）: Th-Tu 09:30-17:00 / 出典: OpenStreetMap"
+    },
+    {
+      "name": "足立区生物園",
+      "latitude": 35.792407,
+      "longitude": 139.807207,
+      "memo": "入場料: あり / 出典: OpenStreetMap"
+    },
+    {
+      "name": "都立大島動物園",
+      "latitude": 34.760313,
+      "longitude": 139.435206,
+      "memo": "出典: OpenStreetMap"
+    }
+  ]
+}
