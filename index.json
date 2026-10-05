@@ -22,6 +22,26 @@
       "path": "packages/diskunion-kanto.json"
     },
     {
+      "id": "tabelog-ramen-tokyo-2024",
+      "name": "ラーメン TOKYO 百名店 2024",
+      "description": "食べログ「ラーメン TOKYO 百名店 2024」選出の100店",
+      "overview": "食べログが発表した「ラーメン TOKYO 百名店 2024」に選出された東京都内のラーメン店100軒です。ラーメン食べ歩きの行き先をまとめて登録したい人向け。選出店舗の一覧は食べログアワードの公式ページ、各店の住所・緯度経度は食べログの店舗ページの構造化データ（schema.org Restaurant）から取得しています（2026-10-06 時点）。年度ごとに別パッケージにしているため、複数年を入れると共通して選ばれている店は先に入れた年のものが残り、重複登録はされません。",
+      "storeCount": 100,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tabelog-ramen-tokyo-2024.json"
+    },
+    {
+      "id": "tabelog-ramen-tokyo-2025",
+      "name": "ラーメン TOKYO 百名店 2025",
+      "description": "食べログ「ラーメン TOKYO 百名店 2025」選出の100店",
+      "overview": "食べログが発表した「ラーメン TOKYO 百名店 2025」に選出された東京都内のラーメン店100軒です。ラーメン食べ歩きの行き先をまとめて登録したい人向け。選出店舗の一覧は食べログアワードの公式ページ、各店の住所・緯度経度は食べログの店舗ページの構造化データ（schema.org Restaurant）から取得しています（2026-10-06 時点）。年度ごとに別パッケージにしているため、複数年を入れると共通して選ばれている店は先に入れた年のものが残り、重複登録はされません。",
+      "storeCount": 100,
+      "version": 1,
+      "updatedAt": "2026-10-06",
+      "path": "packages/tabelog-ramen-tokyo-2025.json"
+    },
+    {
       "id": "tokyo-art-museum",
       "name": "東京の美術館",
       "description": "東京都内の美術館",
