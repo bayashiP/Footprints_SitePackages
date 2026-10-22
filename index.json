@@ -150,6 +150,16 @@
       "version": 1,
       "updatedAt": "2026-10-05",
       "path": "packages/tokyo-zoo-aquarium.json"
+    },
+    {
+      "id": "musical-instruments-kanto",
+      "name": "楽器店 関東圏",
+      "description": "関東圏の楽器店チェーン（クロサワ楽器店・島村楽器・イシバシ楽器など）",
+      "overview": "関東地方（東京都・神奈川県・埼玉県・千葉県・茨城県・栃木県・群馬県）にある楽器店チェーンをまとめたパッケージです。クロサワ楽器店・島村楽器・イシバシ楽器・下倉楽器・山野楽器・楽器のイケベの店舗を収録しています。OpenStreetMapに登録されている店舗データ（brandタグで判定）を元に作成しており、支店名が登録されていない店舗は所在地の地名を店名に添えています。御茶ノ水駅前・池袋など複数の専門店舗ビルが50m圏内に密集するエリアは、1件にまとめて同居する専門店名をメモに記載しています。",
+      "storeCount": 40,
+      "version": 1,
+      "updatedAt": "2026-10-22",
+      "path": "packages/musical-instruments-kanto.json"
     }
   ]
 }
