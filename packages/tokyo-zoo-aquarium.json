@@ -4,11 +4,11 @@
   "name": "東京の動物園・水族館",
   "description": "東京都内の動物園・水族館",
   "overview": "東京都内にある動物園・水族館をまとめたパッケージです。お出かけ先の候補をまとめて登録したい人向け。OpenStreetMap の `tourism=zoo` / `tourism=aquarium` の施設（2026-10-05 時点）を元に作成し、園内の展示コーナー・植物園・研究施設・観賞魚店は除外しています。伊豆大島・小笠原の施設も含みます。",
-  "version": 1,
-  "updatedAt": "2026-10-05",
+  "version": 2,
+  "updatedAt": "2026-10-22",
   "suggestedCategory": {
     "name": "動物園・水族館",
-    "icon": "🐾"
+    "icon": "pets"
   },
   "stores": [
     {

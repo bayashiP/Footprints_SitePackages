@@ -4,11 +4,11 @@
   "name": "東京の科学館・博物館",
   "description": "東京都内の博物館・科学館",
   "overview": "東京都内の博物館・科学館をまとめたパッケージです。企業ミュージアムや専門博物館も含みます。OpenStreetMap の `tourism=museum` のうち、名称に「博物館」「科学館」「ミュージアム」を含むもの、または `museum=science/technology/natural_history/transport` が付いた施設（2026-10-05 時点）を収録。美術館は別パッケージ「東京の美術館」に分けています。小規模な資料館・記念館・郷土館は件数が多いため除外。",
-  "version": 1,
-  "updatedAt": "2026-10-06",
+  "version": 2,
+  "updatedAt": "2026-10-22",
   "suggestedCategory": {
     "name": "博物館",
-    "icon": "🏛️"
+    "icon": "museum"
   },
   "stores": [
     {

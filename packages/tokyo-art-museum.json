@@ -4,11 +4,11 @@
   "name": "東京の美術館",
   "description": "東京都内の美術館",
   "overview": "東京都内の美術館をまとめたパッケージです。展覧会めぐりの行き先をまとめて登録したい人向け。OpenStreetMap の `tourism=museum` のうち、名称に「美術館」を含むもの、または `museum=art` が付いた施設（2026-10-05 時点）を収録しています。画廊・ギャラリー・企業のショールームは除外。同じ場所にある分館・別館は1件にまとめ、メモに併記しています。",
-  "version": 1,
-  "updatedAt": "2026-10-06",
+  "version": 2,
+  "updatedAt": "2026-10-22",
   "suggestedCategory": {
     "name": "美術館",
-    "icon": "🖼️"
+    "icon": "museum"
   },
   "stores": [
     {
