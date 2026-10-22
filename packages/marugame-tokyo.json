@@ -4,11 +4,11 @@
   "name": "丸亀製麺 東京",
   "description": "東京都内の丸亀製麺",
   "overview": "東京都内の丸亀製麺です。OpenStreetMap のデータ（2026-10-06 時点）を元に作成しています。OSM に支店名が登録されていない店舗は、国土地理院の逆ジオコーディングで求めた所在地（市区町村・町丁名）を店名に添えています。実在しない支店名は付けていません。",
-  "version": 1,
-  "updatedAt": "2026-10-06",
+  "version": 2,
+  "updatedAt": "2026-10-22",
   "suggestedCategory": {
     "name": "うどん",
-    "icon": "🍜"
+    "icon": "restaurant"
   },
   "stores": [
     {
